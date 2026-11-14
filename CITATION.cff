@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: If you use this fork, please cite it using the metadata in this file. For upstream
+  work, also follow the citation guidance at https://github.com/powerbi-cli/powerbi-cli.
+title: Power BI CLI (edithatogo fork)
+authors:
+- family-names: Posthuma
+  given-names: Jan Pieter
+repository-code: https://github.com/edithatogo/powerbi-cli
